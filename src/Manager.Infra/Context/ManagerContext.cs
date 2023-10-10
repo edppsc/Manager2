@@ -10,7 +10,14 @@ namespace Manager.Infra.Context{
         public ManagerContext(DbContextOptions<ManagerContext> options) : base(options)
         {}
         
-             public  virtual DbSet<User> Users { get; set; }
+        // RECOMENDAVEL TIRAR POR SEGURANÇA
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+          
+        }
+
+
+        public  virtual DbSet<User> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {

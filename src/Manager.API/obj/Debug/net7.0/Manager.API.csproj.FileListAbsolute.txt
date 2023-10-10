@@ -6,6 +6,7 @@ C:\.Net\Manager\src\Manager.API\bin\Debug\net7.0\Manager.API.runtimeconfig.json
 C:\.Net\Manager\src\Manager.API\bin\Debug\net7.0\Manager.API.dll
 C:\.Net\Manager\src\Manager.API\bin\Debug\net7.0\Manager.API.pdb
 C:\.Net\Manager\src\Manager.API\bin\Debug\net7.0\AutoMapper.dll
+C:\.Net\Manager\src\Manager.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\.Net\Manager\src\Manager.API\bin\Debug\net7.0\Azure.Core.dll
 C:\.Net\Manager\src\Manager.API\bin\Debug\net7.0\Azure.Identity.dll
 C:\.Net\Manager\src\Manager.API\bin\Debug\net7.0\FluentValidation.dll

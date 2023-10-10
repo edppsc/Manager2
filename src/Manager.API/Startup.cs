@@ -1,5 +1,3 @@
-using System;
-using System.Text;
 using AutoMapper;
 using Manager.API.ViewModes;
 using Manager.Domain.Entities;
@@ -8,19 +6,8 @@ using Manager.Infra.Interfaces;
 using Manager.Infra.Repositories;
 using Manager.Services.DTO;
 using Manager.Services.interfaces;
-
-
 using Manager.Services.Services;
-//using MediatR;
-//using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
-using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 
 namespace Manager.API

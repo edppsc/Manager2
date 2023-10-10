@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "85NAvTMDFj9s4qnmGFrSLwa8ZNAmQLdFz6lNOqaq2HqwR4hopcn2z5rU8d4xcJh94XX/Bgtn9ZXl6vpooOdcVg==",
+  "dgSpecHash": "D9MmaXajn10pjr7vHLB+PTDjrvxpaHN0x/PhR8gFlcPs/96uMLoiD6EG5Lm7l8wTi0ZKe/RxetDQ4YrhQx9XTw==",
   "success": true,
   "projectFilePath": "C:\\.Net\\Manager\\src\\Manager.Core\\Manager.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\edson\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\edson\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

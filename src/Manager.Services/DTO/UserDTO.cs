@@ -12,7 +12,7 @@ namespace Manager.Services.DTO{
 
     public UserDTO(long id, string name, string email, string password)
         {
-            Id = Id;
+            Id = id;
             Name = name;
             Email = email;
             Password = password;
