@@ -3,8 +3,7 @@ using System.ComponentModel.DataAnnotations;
 namespace Manager.API.ViewModes{
     public class UpdateUserViewModel{
 
-        [Required(ErrorMessage = "O Id não pode ser vazio")]   
-        [MinLength(1,ErrorMessage = "O Id deve ter no mímino 1 caracteres")]
+        [Required(ErrorMessage = "O Id não pode ser vazio")]
         public int Id { get; set; }
 
         [Required(ErrorMessage = "O nome não pode ser nulo")]      
