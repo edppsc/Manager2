@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fR/z8qWuP+IgyVdYQ5IxdiEM5ZkD8MH2HfufK2GFhyk2bK+Ck12XfkKZ8KyIBDW0sGkaAIkFYbV5xvsaUrSI8w==",
+  "dgSpecHash": "aHDxnIKOzStgt8KBkwm4puvf9tf5076APWBDFffrWKtniC5XZDmHrrMVBkGqW5QmqRIwHWIi0ONNt58YykZ1YA==",
   "success": true,
-  "projectFilePath": "C:\\.Net\\Manager\\src\\Manager.Domain\\Manager.Domain.csproj",
+  "projectFilePath": "C:\\Workspace\\Manager2\\src\\Manager.Domain\\Manager.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\edson\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
-    "C:\\Users\\edson\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
-    "C:\\Users\\edson\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+    "C:\\Users\\Lucas\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

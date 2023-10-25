@@ -3571,19 +3571,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\edson\\.nuget\\packages\\": {}
+    "C:\\Users\\Lucas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\.Net\\Manager\\src\\Manager.API\\Manager.API.csproj",
+      "projectUniqueName": "C:\\Workspace\\Manager2\\src\\Manager.API\\Manager.API.csproj",
       "projectName": "Manager.API",
-      "projectPath": "C:\\.Net\\Manager\\src\\Manager.API\\Manager.API.csproj",
-      "packagesPath": "C:\\Users\\edson\\.nuget\\packages\\",
-      "outputPath": "C:\\.Net\\Manager\\src\\Manager.API\\obj\\",
+      "projectPath": "C:\\Workspace\\Manager2\\src\\Manager.API\\Manager.API.csproj",
+      "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
+      "outputPath": "C:\\Workspace\\Manager2\\src\\Manager.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\edson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3591,23 +3591,25 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\.Net\\Manager\\src\\Manager.Core\\Manager.Core.csproj": {
-              "projectPath": "C:\\.Net\\Manager\\src\\Manager.Core\\Manager.Core.csproj"
+            "C:\\Workspace\\Manager2\\src\\Manager.Core\\Manager.Core.csproj": {
+              "projectPath": "C:\\Workspace\\Manager2\\src\\Manager.Core\\Manager.Core.csproj"
             },
-            "C:\\.Net\\Manager\\src\\Manager.Domain\\Manager.Domain.csproj": {
-              "projectPath": "C:\\.Net\\Manager\\src\\Manager.Domain\\Manager.Domain.csproj"
+            "C:\\Workspace\\Manager2\\src\\Manager.Domain\\Manager.Domain.csproj": {
+              "projectPath": "C:\\Workspace\\Manager2\\src\\Manager.Domain\\Manager.Domain.csproj"
             },
-            "C:\\.Net\\Manager\\src\\Manager.Infra\\Manager.Infra.csproj": {
-              "projectPath": "C:\\.Net\\Manager\\src\\Manager.Infra\\Manager.Infra.csproj"
+            "C:\\Workspace\\Manager2\\src\\Manager.Infra\\Manager.Infra.csproj": {
+              "projectPath": "C:\\Workspace\\Manager2\\src\\Manager.Infra\\Manager.Infra.csproj"
             },
-            "C:\\.Net\\Manager\\src\\Manager.Services\\Manager.Services.csproj": {
-              "projectPath": "C:\\.Net\\Manager\\src\\Manager.Services\\Manager.Services.csproj"
+            "C:\\Workspace\\Manager2\\src\\Manager.Services\\Manager.Services.csproj": {
+              "projectPath": "C:\\Workspace\\Manager2\\src\\Manager.Services\\Manager.Services.csproj"
             }
           }
         }
@@ -3658,7 +3660,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
